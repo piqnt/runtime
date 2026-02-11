@@ -1,5 +1,11 @@
 # planck-testbed
 
+## 0.0.6
+
+### Patch Changes
+
+- 61e295e: Fix prepack script
+
 ## 0.0.5
 
 ### Patch Changes
