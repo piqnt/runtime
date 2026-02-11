@@ -1,5 +1,12 @@
 # planck-testbed
 
+## 0.0.7
+
+### Patch Changes
+
+- 6508440: Use root export
+- bf9b9c9: Export middlewares
+
 ## 0.0.6
 
 ### Patch Changes
