@@ -2,12 +2,12 @@
   "name": "planck-testbed",
   "version": "0.0.5",
   "description": "Testbed for Planck.js",
-  "homepage": "https://github.com/piqnt/planck-testbed",
+  "homepage": "https://github.com/piqnt/runtime",
   "keywords": [],
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "git://github.com/piqnt/planck-testbed.git"
+    "url": "git://github.com/piqnt/runtime.git"
   },
   "author": "Ali Shakiba",
   "type": "module",
