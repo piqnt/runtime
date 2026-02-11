@@ -15,12 +15,12 @@
   "main": "dist/planck-testbed.js",
   "types": "dist/planck-testbed.d.ts",
   "exports": {
-    "./v1": {
+    ".": {
       "types": "./dist/planck-testbed.d.ts",
       "import": "./dist/planck-testbed.js",
       "default": "./dist/planck-testbed.umd.cjs"
     },
-    "./v2": {
+    "./v1": {
       "types": "./dist/planck-testbed.d.ts",
       "import": "./dist/planck-testbed.js",
       "default": "./dist/planck-testbed.umd.cjs"
