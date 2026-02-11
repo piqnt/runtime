@@ -63,8 +63,9 @@
     "lint": "eslint './src/**/*.ts'",
     "pretty": "prettier --write './src/**/*.ts'",
     "test": "vitest run",
-    "preflight": "npm run lint && npm run test:types && npm run test",
+    "preflight": "pnpm run lint && pnpm run test:types && pnpm run test",
     "dev": "vite",
+    "prepack": "pnpm build",
     "build": "vite build",
     "watch": "vite build --watch",
     "preview": "vite preview"

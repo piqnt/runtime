@@ -9,8 +9,7 @@
   "scripts": {
     "changeset": "changeset",
     "version": "changeset version",
-    "publish": "changeset publish",
-    "prepack": "pnpm -r build"
+    "publish": "changeset publish"
   },
   "devDependencies": {
     "@changesets/cli": "^2.29.8"
