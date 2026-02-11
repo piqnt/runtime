@@ -1,0 +1,18 @@
+{
+  "name": "@piqnt/root",
+  "version": "0.0.0",
+  "description": "",
+  "keywords": [],
+  "author": "Ali Shakiba",
+  "license": "MIT",
+  "packageManager": "pnpm@10.29.2",
+  "scripts": {
+    "changeset": "changeset",
+    "version": "changeset version",
+    "publish": "changeset publish",
+    "prepack": "pnpm -r build"
+  },
+  "devDependencies": {
+    "@changesets/cli": "^2.29.8"
+  }
+}
